@@ -1,3 +1,3 @@
 # tanzu-dotnet-core
 
-trigger build #1
+trigger build #2
